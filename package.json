@@ -1,0 +1,29 @@
+{
+  "name": "baseline",
+  "version": "1.0.0",
+  "description": "Starting point for sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JL",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "prettier": "^1.5.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jepz/baseline-codementoring-sessions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jepz/baseline-codementoring-sessions/issues"
+  },
+  "homepage": "https://github.com/jepz/baseline-codementoring-sessions#readme"
+}
